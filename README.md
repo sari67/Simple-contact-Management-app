@@ -1,1 +1,3 @@
-# Simple-contact-Management-app
+# contact_managemenr_app
+
+A new Flutter project.
